@@ -13,7 +13,6 @@
 		0A1B1087251A1DAC004ABED7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A1B1085251A1DAC004ABED7 /* Main.storyboard */; };
 		0A1B1089251A1DAE004ABED7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A1B1088251A1DAE004ABED7 /* Assets.xcassets */; };
 		0A1B108C251A1DAE004ABED7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A1B108A251A1DAE004ABED7 /* LaunchScreen.storyboard */; };
-		0A9970C6251FE33700D59EE7 /* Fields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9970C5251FE33700D59EE7 /* Fields.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		0A1B1088251A1DAE004ABED7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A1B108B251A1DAE004ABED7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0A1B108D251A1DAE004ABED7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0A9970C5251FE33700D59EE7 /* Fields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fields.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +60,6 @@
 				0A1B1081251A1DAC004ABED7 /* SceneDelegate.swift */,
 				0A1B1083251A1DAC004ABED7 /* ViewController.swift */,
 				0A1B1085251A1DAC004ABED7 /* Main.storyboard */,
-				0A9970C5251FE33700D59EE7 /* Fields.swift */,
 				0A1B1088251A1DAE004ABED7 /* Assets.xcassets */,
 				0A1B108A251A1DAE004ABED7 /* LaunchScreen.storyboard */,
 				0A1B108D251A1DAE004ABED7 /* Info.plist */,
@@ -143,7 +140,6 @@
 			files = (
 				0A1B1084251A1DAC004ABED7 /* ViewController.swift in Sources */,
 				0A1B1080251A1DAC004ABED7 /* AppDelegate.swift in Sources */,
-				0A9970C6251FE33700D59EE7 /* Fields.swift in Sources */,
 				0A1B1082251A1DAC004ABED7 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
